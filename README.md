@@ -6,14 +6,20 @@ Offical Bootstrap Repository [here](https://github.com/twbs/bootstrap)
 
 ## Setup
 
+### Installation from npm
+```
+npm install bootstrap-4-migrate --save
+```
+
 ### Installation from github
 
-Download Zip and copy "**bootstrap-4-migrate.css**" file to your working folder and add to your header file. But make sure it is above the bootstrap 4 stylesheet file.
+[Download Zip](https://github.com/susonwaiba/bootstrap-4-migrate/archive/master.zip) and copy **css** and **fonts** folder to your working folder.
+
+Add "**bootstrap-4-migrate.min.css**" to your header, But make sure it is above the bootstrap 4 stylesheet file.
 ```
-<link rel="stylesheet" type="text/css" href="css/bootstrap-4-migrate.css">
+<link rel="stylesheet" type="text/css" href="your_dir/css/bootstrap-4-migrate.min.css">
 <!-- Loading bootstrap 4 from CDN -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
-
 ```
 
 ## Changes
@@ -28,6 +34,4 @@ Download Zip and copy "**bootstrap-4-migrate.css**" file to your working folder 
 - and more
 
 ## Links
-[Website](http://susonwaiba.com)
-[Github](https://github.com/susonwaiba)
-[Bootstrap](https://github.com/twbs/bootstrap)
+[Website](http://susonwaiba.com) | [Github](https://github.com/susonwaiba) | [Bootstrap](https://github.com/twbs/bootstrap)
