@@ -1,0 +1,35 @@
+{
+  "name": "bootstrap-4-migrate",
+  "version": "1.0.0",
+  "description": "A small package to work with bootstrap 4 without breaking project build in bootstrap 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/susonwaiba/bootstrap-4-migrate.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "4",
+    "bootstrap",
+    "3",
+    "support",
+    "bootstrap",
+    "4",
+    "migrate",
+    "bootstrap",
+    "4",
+    "support",
+    "for",
+    "bootstrap",
+    "3"
+  ],
+  "author": "Suson Waiba <susonwaiba@gmail.com> (http://susonwaiba.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/susonwaiba/bootstrap-4-migrate/issues"
+  },
+  "homepage": "https://github.com/susonwaiba/bootstrap-4-migrate#readme"
+}
