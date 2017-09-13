@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-4-migrate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A small package to work with bootstrap 4 without breaking project build in bootstrap 3",
   "main": "index.js",
   "scripts": {
